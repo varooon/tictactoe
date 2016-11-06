@@ -1,0 +1,12 @@
+.game-board {
+  width:300px;
+  margin-top:10px;
+  text-align: center;
+}
+
+.custom-box{
+  border: #CCC 1px solid;
+  height: 100px;
+  width: 100px;
+
+}
